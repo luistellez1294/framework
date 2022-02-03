@@ -1,0 +1,5 @@
+databases.properties
+secrets.ini
+*.pdf
+
+\virtual_env
